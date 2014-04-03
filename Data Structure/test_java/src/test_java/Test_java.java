@@ -9,6 +9,7 @@ public class Test_java {
         System.out.print("Lasname : ");
         String lasname = sc.nextLine();
         
+        
         System.out.println(name+" "+lasname);
     }
     
